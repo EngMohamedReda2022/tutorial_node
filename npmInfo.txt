@@ -1,0 +1,5 @@
+npm ==> node package manager
+3 useful for use npm
+1- reuse our code in other projects
+2- use code written by other developer 
+3 share our code to other developer 

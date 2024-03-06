@@ -1,0 +1,8 @@
+const names=require("./names.js")
+const sayhi=require("./utils.js")
+const data=require("./alternative.js")
+require("./MindGrenade.js")
+// console.log(data)
+// sayhi("ali")
+// sayhi(names.mohamed)
+// sayhi(names.ahmed)
